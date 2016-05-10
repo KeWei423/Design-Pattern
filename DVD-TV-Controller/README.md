@@ -7,3 +7,8 @@ To design & implement a TV set which includes:
 * Device Controller
 
 Leverage Python best practices as well as Object Oriented principles including design patterns.
+
+Include: 
+* Tests
+* Class diagram > No class diagram
+* Extent of usage of design patterns
