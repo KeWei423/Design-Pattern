@@ -10,5 +10,5 @@ Leverage Python best practices as well as Object Oriented principles including d
 
 Include: 
 * Tests
-* Class diagram > No class diagram
+* Class diagram
 * Extent of usage of design patterns
